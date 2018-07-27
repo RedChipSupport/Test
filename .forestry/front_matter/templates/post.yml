@@ -5,7 +5,7 @@ is_partial: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Choose Template
   default: post
 - type: text
   default: 2nd post
@@ -16,7 +16,7 @@ fields:
   label: Choose the date
   default: 2018-07-25 00:00:00 +0200
 - type: tag_list
-  name: Categories
+  name: categories
   label: Categories
   default:
   - jekyll-updates
