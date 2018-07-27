@@ -20,4 +20,4 @@ fields:
   label: categories
   default: posts
 pages:
-- _posts/post-with-banner.md
+- _posts/2018-07-27-post-with-banner.md
