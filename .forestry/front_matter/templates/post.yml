@@ -1,0 +1,21 @@
+---
+label: post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: layout
+  default: post
+- type: text
+  default: 2nd post
+  name: title
+  label: title of the page
+- type: text
+  name: date
+  label: date
+  default: 2018-07-27 11:07:48 +0000
+- type: text
+  name: categories
+  label: categories
+  default: posts
