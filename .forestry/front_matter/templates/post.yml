@@ -21,5 +21,5 @@ fields:
   default:
   - jekyll-updates
 pages:
-- _posts/2018-07-24-3rd-post.md
 - _posts/2018-07-27-post-with-banner.md
+- _posts/2018-07-24-3rd-post.md
