@@ -15,9 +15,10 @@ fields:
   name: date
   label: Choose the date
   default: 2018-07-25 00:00:00 +0200
-- type: text
-  name: categories
+- type: tag_list
+  name: Categories
   label: Categories
-  default: jekyll updates
+  default:
+  - jekyll-updates
 pages:
 - _posts/2018-07-27-post-with-banner.md
