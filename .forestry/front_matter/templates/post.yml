@@ -14,7 +14,7 @@ fields:
 - type: datetime
   name: date
   label: Choose the date
-  default: 2018-07-25 00:00:00 +0200
+  default: 2018-07-24 22:00:00 +0000
 - type: tag_list
   name: categories
   label: Categories
