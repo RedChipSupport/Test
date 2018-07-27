@@ -1,0 +1,8 @@
+---
+title: 3rd post
+layout: post
+date: 2018-07-24 22:00:00 +0000
+categories:
+- jekyll-updates
+
+---
