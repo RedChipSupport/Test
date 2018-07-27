@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: post
+  name: layout
   label: layout
   default: post
 - type: text
@@ -13,11 +13,11 @@ fields:
   label: title of the page
 - type: datetime
   name: date
-  label: ''
+  label: Choose the date
   default: 2018-07-25 00:00:00 +0200
 - type: text
   name: categories
-  label: ''
+  label: Categories
   default: jekyll updates
 pages:
 - _posts/2018-07-27-post-with-banner.md
